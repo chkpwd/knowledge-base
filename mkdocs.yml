@@ -1,0 +1,6 @@
+site_name: Chk's Knowledge Base
+site_url: https://docs.chkpwd.com/
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
